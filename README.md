@@ -1,2 +1,2 @@
 # watchtower-server
-WatchTower springbot server application
+WatchTower springboot server application
